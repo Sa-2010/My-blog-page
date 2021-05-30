@@ -1,0 +1,108 @@
+body {
+    text-align: center;
+}
+
+.travel_mainDiv {
+    border: 1px solid #c7c7c7;
+    padding-left: 0px;
+    padding-right: 0px;
+    float: none
+}
+
+.travel_mainDiv img {
+    width: 100%;
+}
+
+.travel_mainDiv hr {
+    width: 230px;
+}
+
+.travel_mainDiv h5,
+.travel_mainDiv p {
+    margin-left: 20px;
+}
+
+.movie_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+
+.movie_head i {
+    float: right;
+}
+
+.movie_text span {
+    color: #ff7700;
+}
+
+.currentaffairs_li {
+    margin-top: 13px;
+}
+
+.currentaffairs_li h4 {
+    border-bottom: 1px solid white;
+    padding: 8px;
+}
+
+.currentaffairs_li img {
+    border-radius: 25px;
+}
+
+.currentaffairs_li p {
+    margin-top: 10px;
+}
+
+.header_entrepreneur {
+    line-height: 2;
+}
+
+.book {
+    cursor: pointer;
+}
+
+.book hr {
+    margin-bottom: 10px;
+}
+
+.modal-content {
+    margin-top: 100px;
+}
+
+.img_modal {
+    display: inline-block;
+    max-width: 50px;
+    height: 100px;
+}
+
+.p_modal {
+    margin-top: 10px;
+}
+
+.modal-body {
+    text-align: center;
+}
+
+#about_me iframe {
+    width: 100%;
+}
+
+.about_me h3 {
+    display: inline;
+}
+
+.about_me a {
+    text-shadow: none;
+}
+
+.about_me_mainDiv img {
+    width: 100%;
+}
+
+.about_me_mainDiv h5,
+.about_me_mainDiv p {
+    margin-left: 20px;
+}
